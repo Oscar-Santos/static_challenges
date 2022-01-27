@@ -1,0 +1,30 @@
+h1 {
+  padding: 25px 25px 25px 25px;
+  height: 420 px;
+  width: 100%;
+  background-color: red;
+}
+
+h2 {
+  padding: 8px 8px 8px 8px;
+  height: 400 px;
+  width: 100%;
+  background-color: grey;
+  text-align: right;
+}
+.column{
+  float:left;
+  width: 50%;
+  text-align: left;
+}
+
+p {
+  background-color: white;
+  font-size: 15px;
+}
+
+footer {
+  color: white;
+  background-color: grey;
+  font-size: 10px;
+}
